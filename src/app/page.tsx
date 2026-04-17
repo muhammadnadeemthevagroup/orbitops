@@ -29,6 +29,7 @@ export default function Home() {
               <a href="#features" className="text-gray-600 hover:text-gray-900 transition">Features</a>
               <a href="#testimonials" className="text-gray-600 hover:text-gray-900 transition">Testimonials</a>
               <a href="#contact" className="text-gray-600 hover:text-gray-900 transition">Contact</a>
+              <a href="#careers" className="text-gray-600 hover:text-gray-900 transition">Careers</a>
             </nav>
           </div>
         </div>
