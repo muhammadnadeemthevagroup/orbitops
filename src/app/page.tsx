@@ -27,6 +27,7 @@ export default function Home() {
             <h1 className="text-2xl font-bold text-gray-900">OrbitOps</h1>
             <nav className="hidden md:flex space-x-8">
               <a href="#features" className="text-gray-600 hover:text-gray-900 transition">Features</a>
+              <a href="#services" className="text-gray-600 hover:text-gray-900 transition">Services</a>
               <a href="#testimonials" className="text-gray-600 hover:text-gray-900 transition">Testimonials</a>
               <a href="#contact" className="text-gray-600 hover:text-gray-900 transition">Contact</a>
             </nav>
